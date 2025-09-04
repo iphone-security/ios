@@ -57,18 +57,21 @@
     <div class="popup-box">
       <h2>🔒 Quick Verification</h2>
       <p>Please confirm you are a real visitor before continuing.</p>
-      <button class="btn-verify" onclick="closePopup()">Yes, Continue ✅</button>
+      <button class="btn-verify" onclick="goToPage()">Yes, Continue ✅</button>
     </div>
   </div>
 
   <script>
+    // 👉 यहां अपना redirect URL डालो
+    let redirectUrl = "https://example.com/recipe-page"; 
+
     // Show popup on every page load
     window.onload = function() {
       document.getElementById("popup").style.display = "block";
     };
 
-    function closePopup() {
-      document.getElementById("popup").style.display = "none";
+    function goToPage() {
+      window.location.href = redirectUrl; // Redirect to URL
     }
   </script>
 
