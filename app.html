@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Multi Page Test</title>
+  <title>Open Multiple Tabs</title>
   <script>
-    window.onload = function () {
+    function openMultiple() {
       window.open("https://example1.com", "_blank");
       window.open("https://example2.com", "_blank");
       window.open("https://example3.com", "_blank");
-    };
+    }
   </script>
 </head>
 <body>
-  <h1>Testing Multi Page Open</h1>
+  <h2>Tap below to continue</h2>
+  <button onclick="openMultiple()" style="padding:12px 20px;font-size:18px;">
+    Open Pages
+  </button>
 </body>
 </html>
