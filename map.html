@@ -2,11 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Click Verification</title>
+  <title>Recipe Page</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
     .popup-overlay {
       display: none;
       position: fixed;
@@ -35,45 +32,42 @@
       color: #555;
       font-size: 15px;
     }
-    .btn {
+    .btn-verify {
       padding: 10px 22px;
-      margin: 8px;
       border: none;
       border-radius: 8px;
-      cursor: pointer;
-      font-weight: bold;
-      font-size: 14px;
-    }
-    .btn-verify {
       background: #28a745;
       color: white;
+      font-weight: bold;
+      font-size: 14px;
+      cursor: pointer;
     }
   </style>
 </head>
 <body>
 
-  
+  <h1>Delicious Recipe 🍲</h1>
+  <p>This is your recipe content...</p>
+
   <!-- Popup -->
   <div class="popup-overlay" id="popup">
     <div class="popup-box">
-      <h2>✅ Quick Verification</h2>
-      <p>To protect our customers from fake/bot clicks,  
-      please confirm below and continue to your offer.</p>
-      <button class="btn btn-verify" onclick="goToRealPage()">Yes, I want to Continue ➡️</button>
+      <h2>🔒 Verification</h2>
+      <p>To view this recipe, please confirm you are a real visitor.</p>
+      <button class="btn-verify" onclick="closePopup()">I am Human ✅</button>
     </div>
   </div>
 
   <script>
-    let targetUrl = "https://example.com"; // यहां अपना final page URL डालें
+    // Run only if URL contains "recipe"
+    window.onload = function() {
+      if (window.location.href.includes("recipe")) {
+        document.getElementById("popup").style.display = "block";
+      }
+    };
 
-    function openPopup(e) {
-      e.preventDefault(); 
-      document.getElementById("popup").style.display = "block";
-    }
-
-    function goToRealPage() {
+    function closePopup() {
       document.getElementById("popup").style.display = "none";
-      window.location.href = targetUrl;
     }
   </script>
 
