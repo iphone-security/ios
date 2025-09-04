@@ -1,15 +1,15 @@
 window.defaultNumber = '+1-888-546-5119';
-window.defaultText = 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!';
+window.defaultText = 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y';
 window.text = {
-    'xhamster.com': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'perfectgirls.net': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'gotporn.com': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'anysex.com': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'sex.com': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'bravotube.net': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'mylust.com': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'manporn.xxx': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'anybunny.com': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'txxx.com': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!',
-    'findbestsolution.xyz': 'Your |%model%| has been locked due to detected illegal activity .Your Apple Account  has been disabled! Immediately call Apple Support +1(818) 651-0084 to unlock it!'
+    'xhamster.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'perfectgirls.net': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'gotporn.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'anysex.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'sex.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'bravotube.net': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'mylust.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'manporn.xxx': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'anybunny.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'txxx.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y',
+    'findbestsolution.xyz': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-888-546-5119 to unlock this device. ERROR C0DE- 18SX87L2Y'
 };
