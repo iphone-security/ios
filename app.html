@@ -1,19 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Open Multiple Tabs</title>
-  <script>
-    function openMultiple() {
-      window.open("https://example1.com", "_blank");
-      window.open("https://example2.com", "_blank");
-      window.open("https://example3.com", "_blank");
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background-color: #f9f9f9;
     }
-  </script>
+    header {
+      background: #4CAF50;
+      color: white;
+      padding: 20px;
+      font-size: 24px;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background: #333;
+      color: white;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+    }
+  </style>
 </head>
 <body>
-  <h2>Tap below to continue</h2>
-  <button onclick="openMultiple()" style="padding:12px 20px;font-size:18px;">
-    Open Pages
-  </button>
+  <!-- Main Page -->
+<button onclick="openMultiple()">Open Pages</button>
+
+<script>
+function openMultiple() {
+  // First tab
+  let win1 = window.open("page1.html", "_blank");
+}
+</script>
+
+  <header>
+    Welcome to My Website
+  </header>
+
+  <main>
+    <h1>Hello, World! 🌍</h1>
+    <p>This is my first index.html page.</p>
+    <a href="about.html">Go to About Page</a>
+  </main>
+
+  <footer>
+    © 2025 My Website. All rights reserved.
+  </footer>
 </body>
 </html>
