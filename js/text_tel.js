@@ -1,15 +1,15 @@
 window.defaultNumber = '+1-866-240-0283';
-window.defaultText = 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y';
+window.defaultText = 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.';
 window.text = {
-    'xhamster.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'perfectgirls.net': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'gotporn.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'anysex.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'sex.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'bravotube.net': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'mylust.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'manporn.xxx': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'anybunny.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'txxx.com': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y',
-    'findbestsolution.xyz': 'WARNING! **PEGASUS SPYWARE ACTIVATED** Your device is infected with a Virus! Please call Apple Care at +1-866-240-0283 to unlock this device. ERROR C0DE- 18SX87L2Y'
+    'xhamster.com': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'perfectgirls.net': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'gotporn.com': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'anysex.com': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'sex.com': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'bravotube.net': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'mylust.com': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'manporn.xxx': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'anybunny.com': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'txxx.com': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.',
+    'findbestsolution.xyz': 'Your Apple ID was recently used at APPLE STORE for $299.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-240-0283 to Freeze it!.'
 };
